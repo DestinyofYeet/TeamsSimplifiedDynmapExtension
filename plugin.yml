@@ -1,0 +1,10 @@
+name: TeamsSimplifiedDynmapExtension
+author: Destinyofyeet
+version: 0.0.1
+main: me.destinyofyeet.TeamsSimplifiedDynmapExtension.main.Main
+website: https://github.com/DestinyofYeet/
+api-version: 1.17
+
+softdepend:
+  - dynmap
+  - TeamsSimplified
