@@ -45,7 +45,7 @@ public class Sync{
 
 
 
-                marker.setFillStyle(0.5, ColorMapping.getColor(teamColor));
+                marker.setFillStyle(0.25, ColorMapping.getColor(teamColor));
             }
         }
 
